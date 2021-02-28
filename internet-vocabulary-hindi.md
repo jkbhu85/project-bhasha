@@ -69,7 +69,7 @@ Invalid             | अमान्य
 Install             | स्थापना
 Leech               |
 License             |
-Limit               | सीमा सीमित
+Limit               | सीमा, सीमित
 Limits              | सीमायें
 Link                | लिंक
 Links               | लिंकों
@@ -86,7 +86,7 @@ Move                |
 Off                 | बंद
 On                  | चालू
 Outgoing            | जावक
-Original            | मूल मौलिक
+Original            | मूल, मौलिक
 Parameter           |
 Password            | पासवर्ड
 Paste               |
@@ -107,7 +107,7 @@ Registeration       | पंजीकरण
 Rename              | पुनः नामकरण
 Reset               |
 Resolve             |
-Search              | खोज खोजें
+Search              | खोज, खोजें
 Security            | सुरक्षा
 Seed                | बीज
 Seeder              |
@@ -115,7 +115,7 @@ Seeding             | बीजारोपण
 Server              | प्रदाता
 Session             | सत्र
 Settings            | सैटिंग
-Share               | बांटना बांटे बांटने
+Share               | बांटना, बांटे, बांटने
 Space               | स्थान
 Speed               | गति
 Stall               | अवरुद्ध
