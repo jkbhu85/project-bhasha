@@ -1,2 +1,2 @@
 # project-bhasha
-Providing good translations for Internet and computer vocabulary.
+Providing good translations in Hindi for internet and computer vocabulary.
