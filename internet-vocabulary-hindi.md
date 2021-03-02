@@ -32,6 +32,7 @@ Copy                |
 Cookie              | कुकी
 Current             |
 Cut                 |
+Danger              | सङ्कट
 Data                |
 Decryption          | गोपनीयकरण
 Default             |
@@ -48,6 +49,8 @@ Enabled             |
 Encryption          |
 Extension           | एक्सटेंशन
 Feature             |
+Critical            | जोखिम
+Fatal               | घातक
 File                | फाइल
 Files               | फाइलों
 Filter              | छन्नी
@@ -141,6 +144,7 @@ Unlimited           | असीमित
 User                | यूजर
 Username            | यूजरनेम
 Version             | संस्करण
+Warning             | चेतावनी
 Weekday             | कार्यदिवस
 Weekdays            | कार्यदिवसों
 Weekend             | अवकाशदिवस
