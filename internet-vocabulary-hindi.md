@@ -3,6 +3,7 @@
 
 | English | Hindi |
 |---|---|
+Absolute            | निरपेक्ष
 Active              | सक्रिय
 Add                 | जोड़ें
 Advanced            | अग्रिम
@@ -34,6 +35,7 @@ Current             |
 Cut                 |
 Danger              | सङ्कट
 Data                |
+Decode              |
 Decryption          | गोपनीयकरण
 Default             |
 Disable             | अक्षम
@@ -46,6 +48,7 @@ Download            | डाउनलोड
 Empty               | रिक्त
 Enable              | सक्षम
 Enabled             |
+Encode              |
 Encryption          |
 Extension           | एक्सटेंशन
 Feature             |
@@ -107,6 +110,7 @@ Queued              | कतारबद्ध
 Rate                | दर
 Register            | पंजीकृत हों
 Registeration       | पंजीकरण
+Relative            | सापेक्ष
 Rename              | पुनः नामकरण
 Reset               |
 Resolve             |
@@ -129,6 +133,7 @@ Tag                 | उपनाम
 Temporary           | अस्थायी
 Tier                | परत
 Timeout             |
+Toggle              |
 Track               | पीछा करना (क्रिया),  मार्ग(संज्ञा)
 Tracker             | खोजी
 Transfer            | स्थानांतरण
