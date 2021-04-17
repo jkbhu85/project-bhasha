@@ -7,9 +7,10 @@ Active              | सक्रिय
 Add                 | जोड़ें
 Advanced            | अग्रिम
 Allocate            | निर्धारित
+Anonymous           | अनाम
 Announce            | घोषणा
 Apply               | लागू करें
-Article             |
+Article             | लेख
 Audio               | ऑडियो
 Authentic           | प्रामाणिक
 Authentication      | प्रमाणीकरण
@@ -17,154 +18,213 @@ Author              | रचनाकार
 Authorization       | रचनाकरण
 Automatic           | स्वतः
 Automatically       | स्वतः
-Backward            |
-Ban                 | प्रतिबंध
+Backward            | पीछे की ओर
+Ban                 | प्रतिबंध (Noun), प्रतिबन्धित करें (Verb)
 Banned              | प्रतिबन्धित
-BitTorrent          | बिटटौरेंट
+Block               | 
 Browse              |
 Browsing            |
-Cache               |
-Cancel              |
+Buffer              | बफर 
+Cache               | द्रुतिका
+Cancel              | रद्द करें (Verb)
+Cancelled           | रद्द
 Category            | श्रेणी
+Categorize          | श्रेणीबद्ध (Noun), श्रेणीबद्ध करें (Verb)
 Certificate         | प्रमाणपत्र
 Certificates        | प्रमाणपत्रों
+Check               | जांच
+Checked             | जांचा हुआ
 Client              | ग्राहक
+Close               | बंद करें
+Command             |
 Complete            | पूर्ण
+Confirm             | पुष्टि करें
 Connection          | कनेक्शन
 Connect             | जोड़ें
 Connected           | जुड़ा हुआ
-Copy                |
+Copy                | प्रतिलिपि (Noun), प्रतिलिपि बनायें (Verb)
+Copyright           | कॉपीराइट
 Cookie              | कुकी
+Containing          | धारक
 Controls            |
-Current             |
-Cut                 |
-Data                |
-Decode              |
-Decryption          | गोपनीयकरण
-Default             |
+Corrupt             | खराब
+Corrupted           | खराब
+Crash               | ढहना, टक्कर होना
+Current             | निवर्तमान
+Cut                 | स्थानान्तरित करें
+Data                | डाटा
+Database            | डाटाबेस
+Decode              | सुलझायें
+Decoded             | सुलझी हुई
+Decrypt             | अगोपनीय करें
+Decryption          | अगोपनीयकरण
+Default             | पूर्व निर्धारित, पूर्व निर्धारण
 Delay               | विलम्ब
-Develop             |
-Developer           |
-Disable             | अक्षम
+Detailed            | सविस्तार
+Develop             | निर्माण
+Developer           | निर्माणक
+Disable             | अक्षम करें
+Disabled            | अक्षम
 Disconnect          | काटें
 Disconnected        | कटा हुआ
 Disk                | डिस्क
 Display             | डिस्प्ले
-Documentation       |
-Domain              |
+Document            | शास्त्र (Noun), शास्त्रीकरण करें (Verb)
+Documentation       | शास्त्र (Noun)
+Domain              | अधिकार क्षेत्र
 Download            | डाउनलोड
-Edit                |
+Duplicate           | 
+Edit                | संशोधन करें
+Email               | ईमेल
+Embed               | जड़ना, जड़े
+Embedded            | जड़ी हुई
 Empty               | रिक्त
-Enable              | सक्षम
-Enabled             |
-Encode              |
-Encryption          |
+Enable              | सक्षम करें
+Enabled             | सक्षम
+Encode              | गूंथे
+Encoded             | गूंथी हुई
+Encrypt             | गोपनीय करें
+Encryption          | गोपनीयकरण
+Entry               | प्रविष्टि
 Episode             | एपिसोड
-Extension           | एक्सटेंशन
+Extend              | विस्तार करें
+Extension           | प्रकार (फाइल)
 Feature             |
+Feed                | स्रोत
 File                | फाइल
-Files               | फाइलों
-Filter              | छन्नी
+Files               | फाइलों, फाइलें
+Filter              | फिल्टर
 Firewall            |
 Firewalled          |
 Folder              | फोल्डर
 Folders             | फोल्डरों
-Forward             |
+Forward             | आगे की ओर
 Frame               |
 Free                |
 Global              | सार्वभौम
-Home                |
-Host                |
+Group               | समूह (Noun), झुण्ड बनायें (Verb)
+Guest               | अतिथि
+Hibernate           | अतिसुप्त करें
+Home                | गृह
+Host                | यजमान, होस्ट
 Icon                | चित्र
 Incoming            | आवक
-Incomplete          | अपूर्ण
+Incomplete          | अपूर्ण, अधूरा
 Interface           |
-Handle              |
-Hash                |
+Handle              | 
+Hash                | हैश
 Information         | जानकारी
 Invalid             | अमान्य
 Install             | स्थापना
+Latest              | नवीनतम
+Load                | लोड
 Leech               |
 License             |
 Limit               | सीमा, सीमित
 Limits              | सीमायें
 Link                | लिंक
 Links               | लिंकों
-Local               | स्थानीय
+Local               | स्थानीय, लोकल
 Log                 |
 Login               | प्रवेश करें
 Logout              | बाहर निकलें
 Magnet              | चुम्बकीय
 Manual              | स्वयं
 Maximum             | अधिकतम
-Media               | 
-Metadata            |
-Mode                |
-Move                |
+Media               |
+Metadata            | मेटाडाटा
+Mode                | रीति
+Monitor             | निरीक्षित, निरीक्षण
+Move                | हटायें, ले जायें
+Notification        | अधिसूचना
+Notify              | 
 Off                 | बंद करें
 On                  | चालू करें
-Outgoing            | जावक
 Original            | मूल, मौलिक
-Parameter           |
+Outgoing            | जावक
+Overload            | ओवरलोड
+Overhead            | अतिरिक्त
+Parameter           | मापदण्ड, पैरामीटर, क्रियाशब्द
+Parse               | समझना
 Password            | पासवर्ड
 Paste               |
 Pause               |
-Peer                |
+Payload             | सामान, भार
+Peer                | सहकर्मी
 Permanent           | स्थायी
 Play                |
 Playlist            |
-Plugin              |
+Plugin              | प्लगिन
 Pop-up              |
 Port                |
 Prefer              | वरीयता दें
+Preferences         | वरीयताएं
+Preview             | पूर्वदर्शन
 Protection          | बचाव
-Privacy             |
+Privacy             | निजता
 Project             |
-Proxy               |
+Proxy               | छद्म
 Queue               | कतार
 Queued              | कतारबद्ध
 Rate                | दर
+Read                |
+Record              | अभिलेख
+Recursion           | पुनरावर्तन
+Recursive           | पुनरावर्ती
 Register            | पंजीकृत हों
 Registeration       | पंजीकरण
+Remove              | हटायें, हटाना
 Rename              | पुनः नामकरण
-Reset               |
-Resolve             |
-Restart             |
+Reset               | मूल स्थिति में लाएं
+Resolve             | निस्तारण
+Restart             | पुनः आरम्भ करें
+Restore             | बहाल करें
+Resume              | 
 Rewind              |
+Save                | सञ्चय करें 
 Scan                | स्कैन करें
 Screen              | स्क्रीन
 Search              | खोज, खोजें
+Section             | भाग
 Security            | सुरक्षा
 Seed                | बीज
 Seeder              |
 Seeding             | बीजारोपण
-Server              | प्रदाता
+Server              | सर्वर
 Session             | सत्र
 Settings            | सैटिंग
 Share               | बांटना, बांटे, बांटने
+Skip                |
+Sleep               | सुप्त करें, सुप्तावस्था
 Space               | स्थान
 Speed               | गति
 Stall               | अवरुद्ध
 Stalled             | अवरुद्ध
 Status              | स्थिति
+Sure                | निश्चिंत
 Support             |
+Supported           | संगत
 Tag                 | उपनाम
+Template            | साँचा
 Temporary           | अस्थायी
 Tier                | परत
-Timeout             |
-Track               | पीछा करना (क्रिया),  मार्ग(संज्ञा)
-Tracker             | खोजी
+Timeout             | समयान्त
+Torrent             | टाॅरेंट
+Torrents            | टाॅरेंटों
+Track               | पीछा करना (क्रिया), मार्ग(संज्ञा)
+Tracker             | खोजी, ट्रैकर
 Transfer            | स्थानांतरण
-Threshold           | दहलीज
+Threshold           | सीमा
 Transition          |
-Torrent             | टौरेंट
-Torrents            | टौरेंटों
 Update              | अद्यतन
 Updated             | अद्यतित
 Upload              | अपलोड
 Unchanged           | अपरिवर्तित
+Ungroup             | झुण्ड तोड़ें (Verb)
 Uninstall           | अस्थापित
 Unlimited           | असीमित
+Unsupported         | असंगत
+URL                 | युआरएल
 User                | यूजर
 Username            | यूजरनेम
 Version             | संस्करण
@@ -172,6 +232,8 @@ Video               | वीडियो
 Weekday             | कार्यदिवस
 Weekdays            | कार्यदिवसों
 Weekend             | अवकाशदिवस
+Weekends            | अवकाशदिवसों
+Write               | 
 .                   | ।
 ---
 
@@ -179,7 +241,8 @@ Weekend             | अवकाशदिवस
 |---|---|
 Software            | सूक्ष्मयंत्र
 Hardware            | स्थूलयंत्र
-
+BitTorrent          | बिटटाॅरेंट
+qBitTorrent         | क्यूबिटटाॅरेंट
 ---
 | Word | Translation
 |---|---|
@@ -187,7 +250,7 @@ Code                |
 Coding              |
 Data                | आंकड़े
 Information         | सूचना
-Format              |
+Format              | प्रारूप
 Formatting          |
 Find                | ढूंढे
 Find all            | सभी को ढूंढे
