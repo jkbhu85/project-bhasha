@@ -174,7 +174,7 @@ Pop-up              | पोर्ट
 Port                |
 Prefer              | वरीयता दें
 Preferences         | वरीयताएं
-Preview             | पूर्वदर्शन
+Preview             | झलक
 Protection          | बचाव
 Protocol            | पद्धति
 Privacy             | निजता
