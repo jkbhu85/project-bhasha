@@ -113,8 +113,8 @@
 | File                  | फाइल |
 | Files                 | फाइलों, फाइलें |
 | Filter                | फिल्टर |
-| Firewall              | |
-| Firewalled            | |
+| Firewall              | लक्ष्मणरेखा |
+| Firewalled            | लक्ष्मणरेखित |
 | Folder                | फोल्डर |
 | Folders               | फोल्डरों |
 | Forward               | आगे की ओर |
