@@ -76,6 +76,7 @@
 | Decryption            | अगोपनीयकरण |
 | Default               | पूर्व निर्धारित, पूर्व निर्धारण |
 | Delay                 | विलम्ब |
+| Delete                | मिटायें |
 | Detailed              | सविस्तार |
 | Develop               | निर्माण |
 | Developer             | निर्माणक |
